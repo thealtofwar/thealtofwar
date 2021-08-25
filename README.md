@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @thealtofwar
+- 👋 Hi, I’m @thealtofwar  
 I'm a random programmer
